@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Teste
 {
-    class Class_Feature_1
+    public class Class_Feature_1
     {
     }
 }
