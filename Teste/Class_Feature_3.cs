@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Teste
-{
-    class Class_Feature_3
+namespace Teste    public class Class_Feature_3
     {
-        //Classe criada para gerar um conflito
+        //Criado para gerar um conflito no git
+
     }
 }
