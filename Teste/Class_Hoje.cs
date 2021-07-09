@@ -8,6 +8,12 @@ namespace Teste
 {
     class Class_Hoje
     {
-        //Classe criada para a branch Hoje
+        /// <summary>
+        /// Método adicionado na branch Amanhã
+        /// </summary>
+        public void metodoAMnha()
+        {
+
+        }
     }
 }

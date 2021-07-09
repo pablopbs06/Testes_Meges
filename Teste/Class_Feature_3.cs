@@ -19,5 +19,10 @@ namespace Teste
         {
 
         }
+
+        public void metodoCriadoAmanha()
+        {
+
+        }
     }
 }
