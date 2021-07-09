@@ -11,5 +11,13 @@ namespace Teste
     {
     //Criado para gerar um conflito no git
         //Criado para gerar um conflito no git
+
+        /// <summary>
+        /// metodo criado para a branch de hoje
+        /// </summary>
+        public void metodoHoje()
+        {
+
+        }
     }
 }
